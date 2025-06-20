@@ -1,0 +1,16 @@
+.banner{
+    background-image: url(/portifolio/img/b.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 300px 0;
+    border-radius: 10px 0;
+}
+.p-skill{
+    padding: 80px 0;
+}
+.ab{
+    border-radius: 50px;
+    margin-left: 30%;
+    box-shadow: 14px black;
+    
+}
